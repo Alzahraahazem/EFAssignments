@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|c:\\users\\ascom\\desktop\\asp.net content\\efcore\\ef_assignments\\efassignmentssolution\\assignment1\\data\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\data\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Migrations\\20250906132704_AddTopictable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment1\\Data\\Migrations\\20250906132704_AddTopictable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|c:\\users\\ascom\\desktop\\asp.net content\\efcore\\ef_assignments\\efassignmentssolution\\assignment1\\data\\models\\topicconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\data\\models\\topicconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Migrations\\20250906132207_AddTopictable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment1\\Data\\Migrations\\20250906132207_AddTopictable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|c:\\users\\ascom\\desktop\\asp.net content\\efcore\\ef_assignments\\efassignmentssolution\\assignment1\\data\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\data\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|c:\\users\\ascom\\desktop\\asp.net content\\efcore\\ef_assignments\\efassignmentssolution\\assignment1\\data\\models\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\data\\models\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|c:\\users\\ascom\\desktop\\asp.net content\\efcore\\ef_assignments\\efassignmentssolution\\assignment1\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|c:\\users\\ascom\\desktop\\asp.net content\\efcore\\ef_assignments\\efassignmentssolution\\assignment1\\data\\models\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\data\\models\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|c:\\users\\ascom\\desktop\\asp.net content\\efcore\\ef_assignments\\efassignmentssolution\\assignment1\\data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|c:\\users\\ascom\\desktop\\asp.net content\\efcore\\ef_assignments\\efassignmentssolution\\assignment1\\data\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\data\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|c:\\users\\ascom\\desktop\\asp.net content\\efcore\\ef_assignments\\efassignmentssolution\\assignment1\\data\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\data\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|c:\\users\\ascom\\desktop\\asp.net content\\efcore\\ef_assignments\\efassignmentssolution\\assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|c:\\users\\ascom\\desktop\\asp.net content\\efcore\\ef_assignments\\efassignmentssolution\\assignment1\\data\\migrations\\20250905184901_addstud_coursesttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\data\\migrations\\20250905184901_addstud_coursesttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|c:\\users\\ascom\\desktop\\asp.net content\\efcore\\ef_assignments\\efassignmentssolution\\assignment1\\data\\migrations\\20250905184532_addcourse_inststtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5312E1D3-D9A0-4EE1-BDAB-6C831A68D913}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\data\\migrations\\20250905184532_addcourse_inststtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Program.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Program.cs",
+              "RelativeToolTip": "Assignment1\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:00:24.031Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250906132704_AddTopictable.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Migrations\\20250906132704_AddTopictable.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Data\\Migrations\\20250906132704_AddTopictable.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Migrations\\20250906132704_AddTopictable.cs",
+              "RelativeToolTip": "Assignment1\\Data\\Migrations\\20250906132704_AddTopictable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T13:27:04.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250906132207_AddTopictable.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Migrations\\20250906132207_AddTopictable.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Data\\Migrations\\20250906132207_AddTopictable.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Migrations\\20250906132207_AddTopictable.cs",
+              "RelativeToolTip": "Assignment1\\Data\\Migrations\\20250906132207_AddTopictable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T13:22:07.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TopicConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Models\\TopicConfigurations.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Data\\Models\\TopicConfigurations.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Models\\TopicConfigurations.cs",
+              "RelativeToolTip": "Assignment1\\Data\\Models\\TopicConfigurations.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T12:37:55.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Models\\Topic.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Data\\Models\\Topic.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Models\\Topic.cs",
+              "RelativeToolTip": "Assignment1\\Data\\Models\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:49:26.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250905184901_AddStud_CoursestTable.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Migrations\\20250905184901_AddStud_CoursestTable.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Data\\Migrations\\20250905184901_AddStud_CoursestTable.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Migrations\\20250905184901_AddStud_CoursestTable.cs",
+              "RelativeToolTip": "Assignment1\\Data\\Migrations\\20250905184901_AddStud_CoursestTable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:49:01.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stud_Course.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Models\\Stud_Course.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Data\\Models\\Stud_Course.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Models\\Stud_Course.cs",
+              "RelativeToolTip": "Assignment1\\Data\\Models\\Stud_Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:46:33.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250905184532_AddCourse_InststTable.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Migrations\\20250905184532_AddCourse_InststTable.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Data\\Migrations\\20250905184532_AddCourse_InststTable.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Migrations\\20250905184532_AddCourse_InststTable.cs",
+              "RelativeToolTip": "Assignment1\\Data\\Migrations\\20250905184532_AddCourse_InststTable.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:45:32.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course_Inst.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Models\\Course_Inst.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Data\\Models\\Course_Inst.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Models\\Course_Inst.cs",
+              "RelativeToolTip": "Assignment1\\Data\\Models\\Course_Inst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:37:02.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Data\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Models\\Course.cs",
+              "RelativeToolTip": "Assignment1\\Data\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T20:26:12.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Data\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Models\\Instructor.cs",
+              "RelativeToolTip": "Assignment1\\Data\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T20:00:26.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Data\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Models\\Department.cs",
+              "RelativeToolTip": "Assignment1\\Data\\Models\\Department.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T19:50:12.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Data\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\Models\\Student.cs",
+              "RelativeToolTip": "Assignment1\\Data\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:55:51.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Data\\CompanyDbContext.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\EFCore\\EF_Assignments\\EFAssignmentsSolution\\Assignment1\\Data\\CompanyDbContext.cs",
+              "RelativeToolTip": "Assignment1\\Data\\CompanyDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwBoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:52:15.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
