@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Assignment1.Data.Migrations
 {
     [DbContext(typeof(ITIyDbContext))]
-    [Migration("20250905184532_AddCourse_InststTable")]
-    partial class AddCourse_InststTable
+    [Migration("20250920121924_AddSTables")]
+    partial class AddSTables
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -125,6 +125,23 @@ namespace Assignment1.Data.Migrations
                     b.ToTable("Instructor", "dbo");
                 });
 
+            modelBuilder.Entity("Assignment1.Data.Models.Stud_Course", b =>
+                {
+                    b.Property<int>("StudentId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("CourseId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Grade")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(1)");
+
+                    b.HasKey("StudentId", "CourseId");
+
+                    b.ToTable("Stud_Courses");
+                });
+
             modelBuilder.Entity("Assignment1.Data.Models.Student", b =>
                 {
                     b.Property<int>("Id")
@@ -149,6 +166,23 @@ namespace Assignment1.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Students");
+                });
+
+            modelBuilder.Entity("Assignment1.Data.Models.Topic", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Topics");
                 });
 #pragma warning restore 612, 618
         }

@@ -6,13 +6,26 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Assignment1.Data.Migrations
 {
     /// <inheritdoc />
-    public partial class AddTables : Migration
+    public partial class AddSTables : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.EnsureSchema(
                 name: "dbo");
+
+            migrationBuilder.CreateTable(
+                name: "Course_Insts",
+                columns: table => new
+                {
+                    InstructorId = table.Column<int>(type: "int", nullable: false),
+                    CourseId = table.Column<int>(type: "int", nullable: false),
+                    Evaluate = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Course_Insts", x => new { x.InstructorId, x.CourseId });
+                });
 
             migrationBuilder.CreateTable(
                 name: "Courses",
@@ -66,6 +79,19 @@ namespace Assignment1.Data.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "Stud_Courses",
+                columns: table => new
+                {
+                    StudentId = table.Column<int>(type: "int", nullable: false),
+                    CourseId = table.Column<int>(type: "int", nullable: false),
+                    Grade = table.Column<string>(type: "nvarchar(1)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Stud_Courses", x => new { x.StudentId, x.CourseId });
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Students",
                 columns: table => new
                 {
@@ -80,11 +106,27 @@ namespace Assignment1.Data.Migrations
                 {
                     table.PrimaryKey("PK_Students", x => x.Id);
                 });
+
+            migrationBuilder.CreateTable(
+                name: "Topics",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Topics", x => x.Id);
+                });
         }
 
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
+            migrationBuilder.DropTable(
+                name: "Course_Insts");
+
             migrationBuilder.DropTable(
                 name: "Courses");
 
@@ -97,7 +139,13 @@ namespace Assignment1.Data.Migrations
                 schema: "dbo");
 
             migrationBuilder.DropTable(
+                name: "Stud_Courses");
+
+            migrationBuilder.DropTable(
                 name: "Students");
+
+            migrationBuilder.DropTable(
+                name: "Topics");
         }
     }
 }
